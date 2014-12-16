@@ -3,17 +3,17 @@
 class IndexController extends BaseController {
 
 	/**
-	*
+	*  CSRF filter
 	*/
 	public function __construct() {
 
-		# Make sure BaseController construct gets called
+		# call the BaseController construct
 		parent::__construct();
 
 	}
 
 	/**
-	*
+	* index View
 	*/
 	public function getIndex() {
 
