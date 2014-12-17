@@ -3,7 +3,7 @@
 /*
 * Index
 */
-Route::get('/', 'IndexController@getIndex');
+Route::get('/', 'TodododoController@Index');
 
 Route::get('mysql-test', function() {
 

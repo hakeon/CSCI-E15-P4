@@ -1,8 +1,8 @@
 <?php
 
-// app/models/ToDoDoDo.php
+// app/models/todododo.php
 
-class ToDoDoDo extends Eloquent
+class Todododo extends Eloquent
 {
-    
+
 }
