@@ -1,7 +1,7 @@
 @extends('_master')
 
 @section('title')
-	welcome to todododo!
+	welcome to 2dododo
 @stop
 
 @section('head')
@@ -9,5 +9,5 @@
 @stop
 
 @section('content')
-	<h1>welcome to todododo!</h1>
+	<h1>welcome to 2dododo</h1>
 @stop
